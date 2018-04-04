@@ -42,10 +42,10 @@ def mod(num1, num2):
 
 
 def add_mult(num1, num2, num3):
-    """Returns (num1 + num2) * num3"""
+    """Returns product of num3 and sum of num1 and num2"""
     return (num1 + num2) * num3
 
 
 def add_cubes(num1, num2):
-    """Return num1**3 + num2**3."""
+    """Returns sum of the cubes of num1 and num2"""
     return num1**3 + num2**3
